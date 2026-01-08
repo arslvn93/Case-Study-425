@@ -1,20 +1,9 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Chantel Crisp",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Chantel Crisp",
-        "imageSrc": "https://app.salesgenius.co/api/user-images/784db49f-c571-4d6c-934d-42c8c82f4079?v=56e10a03535346b71f2c6974b7cadc5b30312cce99d992f0a41c0aa81c0eac65",
+        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-CCHRFinals-TorontoPersonalBrandPhotography-0647.jpg",
         "contactDetails": [
           {
             "type": "email",
@@ -22,11 +11,17 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "(555) 123-4567"
+            "value": "+1 (647) 967-9677"
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Chantel Crisp",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/chantel-crisp-team/30-minute-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Deep concern that the property wouldn't sell for a price reflecting the significant time and money invested in the full renovation",
         "Uncertainty about whether they'd find the right buyer who would appreciate and pay for the level of transformation they'd created",
         "Fear that the home might sit on the market for weeks or months, eroding their confidence and potentially forcing price reductions"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"Through this entire time she was attentive, professional, thorough and ensured that her or her team was always in contact and understood our needs. Her process is efficient, finding properties within our guidelines to help with the search and organizing visits that was respective of our busy schedule. Everything we had worked so hard on not only paid off, but did so much sooner than we had expected, which made the outcome especially rewarding.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1767723745474-JPP_4138-Edit.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -99,7 +97,8 @@ const config = {
         "Final sale price of $2,360,007 on a list price of $2,380,000—achieving a strong result that reflected their investment",
         "Negotiated fewer conditions and a closer closing date, giving the sellers more control and certainty",
         "Enabled the sellers to move forward immediately with purchasing their long-term family home with complete financial clarity and confidence"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -108,7 +107,8 @@ const config = {
         "Preparation trumps timing every time—when your pricing, presentation, and strategy are dialed in, opportunities show up fast, regardless of market chatter",
         "The right buyer is often in the first wave of interest, especially when your home is positioned to stand out; don't underestimate early offers just because they come quickly",
         "Professional staging and photography aren't optional extras—they're essential tools that can mean the difference between sitting on the market and selling in 24 hours"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -120,24 +120,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://chantelcrisp.com/privacy.html"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/784db49f-c571-4d6c-934d-42c8c82f4079?v=56e10a03535346b71f2c6974b7cadc5b30312cce99d992f0a41c0aa81c0eac65"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1759359225380-logo-black-900x900%20(1).jpeg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Royal LePage Signature Realty",
     "brokerageAddress": "8 Sampson Mews",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1759359225380-logo-black-900x900%20(1).jpeg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://chantelcrisp.com/privacy.html"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-425"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
