@@ -72,9 +72,6 @@ const config = {
         "Invested in high-quality professional photography and videography that captured the property's standout design and unique features, making it impossible to scroll past online",
         "Positioned the home to stand out in a crowded market by emphasizing what made it different—the thoughtful renovation, the attention to detail, and the lifestyle it offered"
       ],
-      "testimonial": {
-        "quote": "\"\"Through this entire time she was attentive, professional, thorough and ensured that her or her team was always in contact and understood our needs. Her process is efficient, finding properties within our guidelines to help with the search and organizing visits that was respective of our busy schedule. Everything we had worked so hard on not only paid off, but did so much sooner than we had expected, which made the outcome especially rewarding.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
