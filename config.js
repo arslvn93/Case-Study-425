@@ -125,10 +125,10 @@ const config = {
       "href": "https://chantelcrisp.com/privacy.html"
     },
     "logo": {
-      "src": "https://app.salesgenius.co/api/user-images/784db49f-c571-4d6c-934d-42c8c82f4079?v=56e10a03535346b71f2c6974b7cadc5b30312cce99d992f0a41c0aa81c0eac65"
+      "src": "https://iss-cdn.myrealpage.com/uBtQbO9coV-y-6tbdDIguZiCZ20itWoCgcYHU84lg5s/rs:auto:760:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL2MvaC9hL24vY2hhbnRlbC1jcmlzcC5teXJlYWxwYWdld2Vic2l0ZS5jb20vX21lZGlhL3F1aWNrLXVwbG9hZHMveHJkcmNzb3p1ZGR1ICgxKS5wbmc_dD0xNzUwODIzMjg4NDEx?t=1750823288411"
     },
     "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1759359225380-logo-black-900x900%20(1).jpeg"
+      "src": "https://collingwoodlifestyle.ca/_media/site-logo-1737685476954.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Royal LePage Signature Realty",
