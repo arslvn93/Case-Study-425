@@ -30,7 +30,7 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How These Toronto Investors Sold Their Fully Renovated Townhouse for $2.36M in Just 24 Hours—Before the Open House Even Happened",
+      "title": "How These Toronto Investors Sold Their Fully Renovated Townhouse for $2.36M in Just 24 Hours, Before the Open House Even Happened.",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1767723701107-JPP_3850-Edit-2 copy.jpg"
       },
