@@ -25,8 +25,8 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How These Toronto Investors Sold Their Fully Renovated Townhouse for $2.36M in Just 24 Hours—Before the Open House Even Happened",
-    "subheadline": "Fully Renovated, Expertly Staged, and Sold in One Day—13 Days Faster Than Area Average"
+    "title": "How These Toronto Investors Sold Their Fully Renovated Townhouse for $2.36M in Just 24 Hours, Before the Open House Even Happened",
+    "subheadline": "Fully Renovated, Expertly Staged, and Sold in One Day: 13 Days Faster Than Area Average"
   },
   "mainBox": {
     "summary": {
