@@ -43,7 +43,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://app.salesgenius.co/api/user-images/784db49f-c571-4d6c-934d-42c8c82f4079?v=56e10a03535346b71f2c6974b7cadc5b30312cce99d992f0a41c0aa81c0eac65"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-CCHRFinals-TorontoPersonalBrandPhotography-0647.jpg"
       },
       "paragraphs": [
         "We put the real in real estate\nAUTHENTIC. DILIGENT. INVESTED\nWhen working with us you can count on nothing less than an uncompromising dedication to superior service and immeasurable efforts that make all the difference in your purchase or sale. The best part – we keep you informed through every step and make it fun along the way.\n\nWe pride ourselves in offering a customized real estate experience for each of our clients. Our unique systems are the key to how we are setting a new standard of service in our industry. For us, the Crisp Standard goes beyond providing unparalleled service. It translates into operating with the best of the best in the industry - from the agents on our team to our highly recommended lawyers, mortgage brokers, home inspectors, trades, renowned stagers unsurpassed in-class marketing, photography, and cutting-edge technology we use to market your home.\n\nIf it doesn't meet our standards, it simply doesn't make the cut."
